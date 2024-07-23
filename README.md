@@ -1,1 +1,3 @@
-# Treasure-Hunt-Server
+# Treasure Hunt Server
+
+Server for the Treasure Hunt game.
